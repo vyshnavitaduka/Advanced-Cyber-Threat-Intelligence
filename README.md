@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Advanced Cyber Threat Intelligence
 
-# Run and deploy your AI Studio app
+## 📌 Description
+This project focuses on analyzing cyber threats, indicators of compromise (IOCs), and attacker tactics to improve threat detection and response. It aims to provide insights into modern cybersecurity threats using structured analysis and automation.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/31376b00-21a3-4d63-950a-921f62c58492
+## 🚀 Features
+- Threat intelligence analysis
+- Indicator of Compromise (IOC) handling
+- Basic data processing and visualization
+- Scalable framework for future integration
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
+- TypeScript
+- Node.js
+- Vite
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚙️ Setup & Run Locally
+
+### Prerequisites
+- Node.js installed
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vyshnavitaduka/Advanced-Cyber-Threat-Intelligence.git
+   cd Advanced-Cyber-Threat-Intelligence
